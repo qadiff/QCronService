@@ -3,6 +3,6 @@ name = "qcron-service"
 version = "0.1.0"
 edition = "2021"
 description = "Qadiff Cron Service with rust language and AIs"
-license = "MIT"
+license = "Apache-2.0"
 
 [dependencies]
